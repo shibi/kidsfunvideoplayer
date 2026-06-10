@@ -1,0 +1,6 @@
+{
+  "name": "Kids PlayTube",
+  "description": "A safe, remote-controlled YouTube player app for kids with customized video curation and play analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
